@@ -7,4 +7,4 @@ int main(){
 
     cout << "Sum is "<< a + b << endl;
     return 0;
-} ""
+} 

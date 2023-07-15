@@ -5,6 +5,6 @@ int main(){
     int a = 3;
     int b = 2;
 
-    // cout << "Difference is "<< a - b << endl;
+    cout << "Difference is "<< a - b << endl;
     return 0;
-} ""
+} 
